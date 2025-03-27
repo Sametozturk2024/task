@@ -8,6 +8,8 @@
         .success .task-list i ,
         .warning .task-list i ,
         .info .task-list  i{ color:#000;  }
+        .task-list {     cursor: grab;}
+
     </style>
     <!-- partial -->
     <div class="main-panel">

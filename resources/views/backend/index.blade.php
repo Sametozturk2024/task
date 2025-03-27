@@ -2,12 +2,15 @@
    @section("content")
 
        <style>
+
+
            .success .task-list { color: #00bb00;}
            .warning .task-list { color:#b38700;}
            .info .task-list { color:#0b7dfd;  }
            .success .task-list i ,
            .warning .task-list i ,
            .info .task-list  i{ color:#000;  }
+           .task-list {     cursor: grab;}
        </style>
         <!-- partial -->
         <div class="main-panel">
